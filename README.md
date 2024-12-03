@@ -16,7 +16,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/JellyLabScripts/FarmHelper">
+  <a href="https://github.com/JeIIyLabScripts/FarmHelper">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
